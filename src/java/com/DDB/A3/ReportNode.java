@@ -1,4 +1,4 @@
-// Abdullah Arif
+//  
 // a runnable object that will be used to find and report to a node
 package com.DDB.A3;
 

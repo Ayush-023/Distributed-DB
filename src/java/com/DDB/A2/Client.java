@@ -1,5 +1,5 @@
-package com.DDB.A2;/* Abdullah Arif
-* COMP-4680
+package com.DDB.A2;/*  
+*  
 * Client class that will connect to the server 
 * implements all the basic key store operations */
 

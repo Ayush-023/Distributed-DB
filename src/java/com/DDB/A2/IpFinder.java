@@ -1,5 +1,5 @@
-package com.DDB.A2;/* Abdullah Arif
-* COMP-4680
+package com.DDB.A2;/*  
+*  
 * Class to find the IP-address of the server */
 
 import java.io.BufferedReader;

@@ -1,5 +1,5 @@
-/* Abdullah Arif
-* COMP-4680
+/*  
+*  
 * Program to handle the one on one FollowerNodes that leader nodes have 
 * implements all the basic key store operations for followers to use */
 package com.DDB.A3;

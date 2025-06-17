@@ -1,5 +1,5 @@
-/* Abdullah Arif
-* COMP-4680
+/*  
+*  
 * Class to find the IP-address of the server */
 package com.DDB.A3;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-// Abdullah Arif
+//  
 // Class representing different "multi-cast channels" which will handle various things
 package com.DDB.A3;
 import com.google.gson.Gson;

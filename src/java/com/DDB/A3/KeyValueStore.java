@@ -1,5 +1,5 @@
-/* Abdullah Arif
-* Custom key value store structure for COMP-4680
+/*  
+* Custom key value store structure for  
 * T is the type for the key and G is the type for the Value */
 package com.DDB.A3;
 import com.google.gson.Gson;
