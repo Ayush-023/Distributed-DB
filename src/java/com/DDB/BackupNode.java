@@ -11,7 +11,7 @@
 /* Report node will get backup from node which it will send to Peer node which will froward it to the KVS network API - which will send the backup request
 *  When a node dies the KVS network API - will get the next in line (the current node's backup ) - which is stored as a static variable 
 */
-package com.DDB.A3;
+package com.DDB;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;

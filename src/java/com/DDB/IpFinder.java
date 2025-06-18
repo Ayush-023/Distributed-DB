@@ -1,7 +1,7 @@
 /*  
 *  
 * Class to find the IP-address of the server */
-package com.DDB.A3;
+package com.DDB;
 import java.io.IOException;
 import java.net.InetAddress;
 import java.net.NetworkInterface;

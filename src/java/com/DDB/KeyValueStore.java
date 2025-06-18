@@ -1,7 +1,7 @@
 /*  
 * Custom key value store structure for  
 * T is the type for the key and G is the type for the Value */
-package com.DDB.A3;
+package com.DDB;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import java.util.HashMap;

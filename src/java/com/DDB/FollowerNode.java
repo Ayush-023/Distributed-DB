@@ -2,7 +2,7 @@
 *  
 * Program to handle the one on one FollowerNodes that leader nodes have 
 * implements all the basic key store operations for followers to use */
-package com.DDB.A3;
+package com.DDB;
 
 
 import java.io.BufferedReader;

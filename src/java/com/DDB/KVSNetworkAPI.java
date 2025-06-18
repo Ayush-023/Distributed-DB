@@ -1,5 +1,5 @@
 // Handles calls regarding manipulation of the Key-Value both locally and remotely and backup node interaction
-package com.DDB.A3;
+package com.DDB;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

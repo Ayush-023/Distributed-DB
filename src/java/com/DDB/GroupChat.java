@@ -1,6 +1,6 @@
 //  
 // Class representing different "multi-cast channels" which will handle various things
-package com.DDB.A3;
+package com.DDB;
 import com.google.gson.Gson;
 
 import java.io.IOException;

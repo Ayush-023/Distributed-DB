@@ -1,4 +1,4 @@
-package com.DDB.A3;
+package com.DDB;
 
 import com.google.gson.Gson;
 
